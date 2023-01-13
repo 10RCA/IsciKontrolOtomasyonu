@@ -25,6 +25,6 @@ Kullanım Senaryoları
 ******* Personeli sildiğimizde dahi kayıtlarda PASİF olarak yer alacaktır. 
 
 İletişim 
-Kurulum esnasında bir problemle karşılaşmanız durumunda lütfen 10lardanur@gmail adresi veya 535 254 15 20 numaralı telefon üzerinden bize ulaşın.
+Kurulum esnasında bir problemle karşılaşmanız durumunda lütfen 10lardanur@gmail adresinden ulaşın.
 Soru, öneri ve görüşleriniz için 10@lardanur@gmail.com adresine yazmaktan çekinmeyin. Mutlu Günler Dileriz.
 
